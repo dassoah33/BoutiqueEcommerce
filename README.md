@@ -3,8 +3,8 @@
 Ce projet est le backend d'une application de boutique en ligne. Il est construit avec le framework AdonisJS et utilise MongoDB comme système de gestion de base de données.
 
 ## Equipe
-Hamid OKETOKOUN
-Dassoah Maixent OKOUMOU
+- Hamid OKETOKOUN
+- Dassoah Maixent OKOUMOU
 
 ## Fonctionnalités
 
